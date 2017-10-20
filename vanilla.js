@@ -1,6 +1,6 @@
-function Vanilla(){
+function Pure(){
 
-    var version = '1.0.0';
+    var version = '2.0.0';
     var releaseName = 'code-happy';
 
     Object.defineProperty(this, "version", { 
